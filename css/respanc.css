@@ -1,0 +1,611 @@
+
+/* ریسپانسیو */
+@media (max-width: 1600px) {
+    .container {
+    width: 90%;
+        }
+    header ul{
+    margin-right: 20px;
+    width: 48%;
+    }
+    header .desc p {
+        font-size: 45px;
+    }
+    #our-us .us-desc p{
+        margin-right: 160px;
+    }
+    #ram .ram-img img {
+        width: 297px;
+    }
+    }
+    @media (max-width: 1500px){
+        header ul{
+            margin-right: 4px;
+            width: 90%;
+    }
+    header .logo{
+        width: 10px;
+    }
+    #our-us .us-desc p {
+        margin-right: 90px;
+    }
+    #ram .ram-img img{
+        height: 520px;
+    }
+    #ram .ram{
+        margin-right: 87px;
+    }
+    #ram .ram p {
+        width: 400px;
+        font-size: 21px;
+        margin: auto;
+    }
+    #ram .ram-img {
+        width: 50%;
+        float: left;
+        margin: 50px -150px;
+    }
+    #ram .ram-img img {
+        height: 520px;
+        width: 275px;
+
+    }
+    }
+    @media (max-width: 1400px){
+        .container {
+            width: 99%;
+        }
+        header .desc h1 {
+            font-size: 75px;
+        }
+        header .desc p {
+            font-size: 37px;
+        }
+        #our-us .us-desc{
+            width: 58%;
+        }
+        #our-us .us-desc h1 {
+            margin-right: -20px;
+        }
+        #our-us .us-desc p {
+            margin-right: 66px;
+        }
+        #our-us .imag{
+            width: 40%;
+        }
+        #our-us .imag img {
+            width: 500px;
+    }
+
+    #ram .ram {
+        width: 34%;
+    }
+    #ram .ram h1 {
+        font-size: 38px;
+        margin-top: 36px;
+    }
+    #ram .ram-img {
+        width: 50%;
+        margin: 50px
+    }
+    #ram .ram-img img{
+        width: 250px;
+        height: 440px;
+    }
+
+    #footer .soshial ul li img {
+        width: 87px;
+        margin: 13px;
+        height: 70px;
+        border-radius: 50%;
+    }
+    #footer .soshial ul li {
+        display: table-cell;
+    
+    }
+    #footer .soshial{
+        margin-top: 9px;
+    }
+    #footer .soshial ul {
+        width: 90%;
+    }
+    }
+    
+    @media (max-width: 1200px) {
+        header ul {
+            width: 86%;
+        }
+        header .desc h1 {
+            font-size: 55px;
+            }
+            header .desc p {
+            font-size: 30px;
+            }
+            #our-us .us-desc h1 {
+                font-size: 28px;
+            }
+            #our-us {
+                padding: 60px 0;
+            }
+            #our-us .us-desc p {
+                margin-right: 8px;
+                font-size: 20px;
+            }
+            #our-us .imag img {
+                width: 470px;
+            }
+            #our-us .imag img {
+                width: 400px;
+            }
+            #menu {
+                height: 412px;
+            }
+            #menu .menudesc {
+                width: 100%;
+                float: right;
+                margin-top: -104px;
+            }
+            #menu .menuimg {
+                width: 100%;
+            }
+            #menu .menuimg ul {
+                width: 100%;
+                list-style: none;
+                display: flex;
+                margin-top: 40px;
+            }
+            #menu .menuimg ul li {
+                margin:auto;
+            }
+        #ram .ram {
+            width: 30%;
+        }
+        #ram .ram-img img {
+            height: 400px;
+            width: 30%;
+        }
+        #ram .ram h1 {
+            font-size: 30px;
+            width: 379px;
+            margin-right: 17px;
+        }
+        #ram .ram p {
+            width: 400px;
+            font-size: 20px;
+        }
+        #footer .soshial{
+            margin-top: 9px;
+        }
+        #footer .soshial ul {
+            width: 100%;
+        }
+        #footer .soshial ul li{
+            margin: auto;
+        }
+    }
+    
+    @media (max-width: 992px) {
+        header ul li {
+            display: inline;
+            margin: 5px 14px;
+        }
+        header .logo {
+            width: 100%;
+            text-align: center;
+        }
+        header .logo img {
+            width: 209px;
+        }
+        header nav {
+    height: 70px;
+    }
+    header ul {
+    width: 100%;
+    text-align: center;
+    }
+    header .desc h1 {
+    font-size: 60px;
+    margin-top: 155px;
+    }
+    header .desc p {
+    font-size: 30px;
+    }
+    #our-us {
+        width: 100%;
+        height: 300px;
+        padding: 20px 0;
+    }
+    #our-us .imag img {
+        width: 90%;
+    }
+    #our-us .us-desc h1 {
+        margin-top: -6px;
+        font-size: 26px;
+        margin-right: 2px;
+    }
+    #our-us .us-desc p {
+        width: 430px;
+    }
+    #sweet .sweet-desc p{
+        width: 769px;
+    }
+    #menu {
+        height: 412px;
+        padding: 50px 0;
+    }
+    #menu .menudesc {
+        width: 100%;
+        float: right;
+        margin-top: -104px;
+    }
+    #menu .desc h1{
+        margin-top: 157px;
+    }
+    #menu .menudesc h1 {
+        margin-top: 57px;
+    }
+    #menu .menuimg ul {
+        width: 100%;
+        list-style: none;
+        display: flex;
+        margin-top: 40px;
+    }
+    #menu .menuimg ul li {
+        margin:auto;
+    }
+    #ram .ram {
+        width: 100%;
+        margin: 0;
+        text-align: center;
+    }
+    #ram .ram h1 {
+        margin: 0;
+       width: 100%;
+    }
+    #ram .ram p {
+        width: 662px;
+        font-size: 20px;
+        line-height: 2;
+    }
+    #ram .ram-img {
+        width: 100%;
+        margin: auto;
+        margin-bottom: 20px;
+    }
+    #ram .ram-img img {
+        height: 322px;
+        width: 44%;
+    }
+    #footer .footerdesc p {
+    width: 367px;
+    }
+    #footer .soshial  {
+        margin-top: 13px;
+    }
+    #footer .soshial ul li {
+        display: contents;
+    }
+    #footer .soshial ul li img{
+        width: 67px;
+    }
+}
+    @media (max-width: 768px) {
+        .backcontainor{
+            position: absolute;
+            top: 0;
+            right: 0;
+            left: 0;
+            bottom: 0;
+            background-color: rgba(0,0,0,.5);
+        }
+        #respansive-nav{
+            display: block;
+            width: 220px;
+            height: 100vh;
+            position: absolute;
+            top: 0;
+            right: -220px;
+            z-index: 1;
+            background-color: rgba(0,0,0,.9);           
+        }
+        #respansive-nav ul{
+            display: block;
+            width: 100%;
+        }
+        #respansive-nav ul li{
+            display: block;
+            width: 100%;
+            margin: 0;
+        }
+        header{
+            background-size:cover;
+        }
+        header ul{
+            display: none;
+        }
+        header .hamborger-icon{
+            display: initial;
+            width: 55%;
+        }
+        header .hamborger-icon img {
+            width: 19%;
+        }
+        header .logo{
+            float: left;
+            width: 60%;               
+        }
+        header .logo img {
+            width: 22%;
+        }
+        header .desc h1 {
+            font-size: 45px;
+            margin-top: 60px;
+        }
+        header .desc p {
+            font-size: 22px;
+        }
+        #sweet .sweet-desc h1 {
+            margin-top: 117px;
+            font-size: 37px;
+        }
+        #our-us .us-desc p {
+            width: 323px;
+        }
+        #sweet .sweet-desc p {
+            width: 520px;
+        }
+        #menu .menudesc h1 {
+            margin-top: 80px;
+            font-size: 26px;
+        }
+        #menu .menudesc p {
+            width: auto;
+    }
+    #hot .hotMain h1 {
+        color: aliceblue;
+        font-size: 56px;
+        margin-top: 70px;
+    }
+    #hot .hotMain p {
+        width: auto;
+    }
+    #ram .ram p {
+        width: auto;
+        font-size: 17px;
+        line-height: 27px;
+    }
+    #ram .ram-img img {
+        height: 268px;
+        width: 245px;
+        margin: 0 62px;
+    }
+    #footer .footerdesc {
+        width: 100%;
+    }
+    #footer .soshial {
+        margin-top: -2px;
+        width: 100%;
+    }
+    #footer .soshial ul li {
+        display: block;
+    }
+    }
+    
+    @media (max-width: 576px) {
+        header ul{
+            display: none;
+        }
+
+        header .logo img {
+    width: 80px;
+    }
+    header nav {
+    height: 60px;
+    }
+    header li {
+    font-size: 14px;
+    }
+    #our-us, #sweet, #menu, #hot, #ram {
+    padding: 30px 0;
+    }
+    #menu .menudesc, #ram .ram {
+    width: 100%;
+    float: none;
+    text-align: center;
+    }
+    #menu .menuimg, #ram .ram-img {
+    width: 100%;
+    float: none;
+    text-align: center;
+    }
+    #menu .menuimg ul li {
+    width: 90%;
+    margin: 0 auto;
+    }
+    #footer .footerdesc, #footer .soshial {
+    width: 100%;
+    float: none;
+    text-align: center;
+    }
+    #sweet .sweet-desc p {
+        width: 461px;
+    }
+    }
+    @media (max-width: 480px){
+        .container {
+            width: 89%;
+        }
+        header {
+            height: 100vh;
+            background-size: cover;
+            position: relative;
+        }
+        header .desc h1 {
+            font-size: 26px;
+            margin-top: 50px;
+        }
+        header .desc p {
+            font-size: 15px;
+        }
+        #our-us .us-desc {
+            width: 112%;
+        }
+        #our-us .us-desc p {
+            width: auto;
+            font-size: 15px;
+            line-height: 35px;
+        }
+        #our-us .imag {
+            width: 100%;
+            height: 179px;
+        }
+        #our-us .imag img {
+            float: left;
+            width: 70%;
+            height: 100px;
+        }
+        #sweet .sweet-desc {
+            width: 112%;
+        }
+        #sweet .sweet-desc h1 {
+            margin-top: 150px;
+            font-size: 26px;
+        }  
+        #sweet .sweet-desc p {
+            width: auto;
+            font-size: large;
+        }
+        #menu .menudesc h1 {
+            font-size: 19px;
+            margin: 81px 13px 11px -15px;
+        }
+        #menu .menudesc p {
+            margin-right: 40px;
+            margin-bottom: initial;
+        }
+        #menu .menudesc a {
+            margin-right: 60px;
+        }
+        #menu .menuimg ul {
+            margin: auto;
+            margin-right: 24px;
+        }
+        #menu .menuimg ul li {
+            width: 100%;
+            margin: 0 6px;
+        }
+        #menu .menuimg img {
+            width: 95%;
+            margin-top: 22%;
+            height: 239%;
+            border-radius: 10px;
+        }
+        #hot{
+            height: 70vh;
+            padding: 30px 0;
+        }
+        #hot .hotMain h1 {
+            margin-right: 42px;
+            font-size: 17px;
+        }
+        #hot .hotMain p {
+            margin-right: 50px;
+            font-size: 20px;
+        }
+        #ram .ram h1{
+            margin-right: 20px;
+            font-size: 25px;
+        }
+        #ram .ram p {
+            margin-right: 20px;
+        }
+        #ram .ram-img {
+            margin-right: 20px;
+        }
+        #ram .ram-img img {
+            height: 200px;
+            width: 35%;
+            
+        }
+        #footer .footerdesc h3 {
+            margin-right: 28px;
+        }
+        #footer .footerdesc p {
+            width: auto;
+            font-size: 14px;
+            margin: 0 32px 0 0;
+        }
+        #footer .soshial ul li img {
+            width: 54px;
+        }
+
+    }
+    @media (max-width: 320px){
+        header {
+            height: 80vh;
+        }
+        header nav {
+            height: 36px;
+        }
+        header .logo img {
+            width: 51px;
+            height: 36px;
+        }
+        header .desc h1 {
+            font-size: 19px;
+        }
+        header .desc p {
+            font-size: 18px;
+            margin: 33px;
+        }
+        #our-us .us-desc h1 {
+            margin-top: -18px;
+            font-size: 16px;
+        }
+        #our-us .us-desc p {
+            width: auto;
+            font-size: 11px;
+        }
+        #our-us .imag img {
+            width: 198px;
+        }
+        #menu .menuimg img{
+            width: 104%;
+            height: 149px;
+            margin-top: 36px;
+        }
+        #hot .hotMain h1 {
+            margin-top: 20px;
+            margin-right: 54px;
+            font-size: 30px;
+        }
+        #hot .hotMain p {
+            margin-right: 42px;
+            font-size: 17px;
+        }
+        #hot{
+            height: 70vh;
+            padding: 30px 0;
+        }
+        #ram .ram h1 {
+            margin-right: 16px;
+            margin-top: -22px;
+            width: 100%;
+        }
+        #ram .ram-img img {
+            height: 200px;
+            width: 35%;
+        }
+        #footer .footerdesc h3 {
+            margin-right: 28px;
+        }
+        #footer .footerdesc p {
+            width: auto;
+            font-size: 14px;
+            margin: 0 32px 0 0;
+        }
+        #footer .soshial ul li img {
+            width: 54px;
+        }
+    } 
+    
